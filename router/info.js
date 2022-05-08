@@ -1,5 +1,5 @@
 const express = require('express');
-const { getCarouselInfo } = require('../router_handler/index.js');
+const { getCarouselInfo } = require('../router_handler/info.js');
 
 const router = express.Router();
 
